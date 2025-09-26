@@ -1,1 +1,1 @@
-This is an example file. I changed this also in main.
+CONFLICTING CHANGE
